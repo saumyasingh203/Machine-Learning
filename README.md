@@ -1,6 +1,5 @@
 # Machine-Learning-Assignments
-This repository has the solutions to all my Machine Learning Assignments and contains the code for some of the common ML Algorithms.
-The Codes have been written and compiled in MATLAB.
+This repository contains the codes for the common Machine Learning Algorithms and concepts. It also contains sample test cases and raw data to test the functioning of the Algorithms. The following codes have been written in MATLAB.
 
 ## ✔️ Week-1: Introduction
 * Topic 1: Introduction
