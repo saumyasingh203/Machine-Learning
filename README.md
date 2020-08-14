@@ -8,3 +8,8 @@ This repository contains the codes for the common Machine Learning Algorithms an
 
 * Topic 3: Linear Algebra Review
 
+## ✔️ Week-2: Multivariate Linear Regression
+* Topic 1: Linear Regression with Multiple Variables
+
+* Topic 2: Computing Parameters Analytically
+
